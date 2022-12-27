@@ -4,7 +4,7 @@
 ## About
 This project was made with the purpose of learning the OpenAI API fine-tuning tool.
 
-The **"Mushroom Model"** is a fine-tuned model that classifies if a mushroom is edible 'e' or poisonous 'p', 
+The **"Mushroom Model"** is a fine-tuned Ada model that classifies if a mushroom is edible 'e' or poisonous 'p', 
 based on: 
 ````
 * cap-shape: bell=b, conical=c, convex=x, flat=f, knobbed=k, suken=s
